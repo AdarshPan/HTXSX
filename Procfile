@@ -1,1 +1,1 @@
-web: gunicorn CovidNeutralised.wsgi --log-file -
+web: gunicorn CovN.wsgi --log-file -
